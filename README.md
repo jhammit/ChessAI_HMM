@@ -11,6 +11,9 @@ The original ChessAI project, developed by "markusbuffett", provided foundationa
 - Board representation and setup
 - Basic gameplay mechanics
 
+To fully use this program, please utilize the foundational components from "markusbuffett", found at: https://github.com/marcusbuffett/command-line-chess
+- This program only shares the updated AI.py and hmmlearn.py files, as those were the main edits from the parent project.
+
 ### New Additions
 
 This extension introduces probabilistic learning techniques via HMM in two main areas:
